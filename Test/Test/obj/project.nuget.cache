@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzHXd4MWESrdjFAcwHXaWOxaTSGPRFRdat6tlQXyu1+y0lpjl9r0brhh/CWANlM0lRzmqueciJvX0wU6jnqPlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adeal-Admin\\Desktop\\Cd\\CI_CD_Test\\Test\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adeal-Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
