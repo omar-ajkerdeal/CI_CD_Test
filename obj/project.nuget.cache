@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fzHXd4MWESrdjFAcwHXaWOxaTSGPRFRdat6tlQXyu1+y0lpjl9r0brhh/CWANlM0lRzmqueciJvX0wU6jnqPlg==",
+  "dgSpecHash": "HPb9Nv8ten8wTOp3oZD0A2ZdfDpgmlKzs9YoOiWjMAdmN13kFfUl44COkPxaktsBvpt26qXHF73Xss1bLmFGXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adeal-Admin\\Desktop\\Cd\\CI_CD_Test\\Test\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\Adeal-Admin\\Desktop\\Cd\\CI_CD_Test\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adeal-Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
   ],

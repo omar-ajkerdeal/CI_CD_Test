@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adeal-Admin\\Desktop\\Cd\\CI_CD_Test\\Test\\Test\\Test.csproj",
-      "projectName": "Test",
-      "projectPath": "C:\\Users\\Adeal-Admin\\Desktop\\Cd\\CI_CD_Test\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Adeal-Admin\\Desktop\\Cd\\CI_CD_Test\\WebApplication1\\WebApplication1.csproj",
+      "projectName": "WebApplication1",
+      "projectPath": "C:\\Users\\Adeal-Admin\\Desktop\\Cd\\CI_CD_Test\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Adeal-Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adeal-Admin\\Desktop\\Cd\\CI_CD_Test\\Test\\Test\\obj\\",
+      "outputPath": "C:\\Users\\Adeal-Admin\\Desktop\\Cd\\CI_CD_Test\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
