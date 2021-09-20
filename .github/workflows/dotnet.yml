@@ -18,7 +18,7 @@ jobs:
       with:
         dotnet-version: 5.0.x
     - name:  Publish
-      run:  dotnet publish "WebApplication1.csproj" -c Release -o /app
+      run:  dotnet publish "WebApplication1.csproj" -c Release -o ./app
 
 
  
