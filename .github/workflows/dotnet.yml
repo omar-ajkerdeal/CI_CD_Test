@@ -19,12 +19,7 @@ jobs:
         dotnet-version: 5.0.x
     - name:  Publish
       run:  dotnet publish "WebApplication1.csproj" -c Release -o ./app
-    - name:  Git Action
-      run:  git add .
-    - name:  Git Action 2
-      run:  git commit -m "test"
-    - name:  Git Action 3
-      run:  git push
+  
     
 
 
